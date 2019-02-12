@@ -1,0 +1,47 @@
+卷 文档 的文件夹 PATH 列表
+卷序列号为 0009-437E
+F:.
+│  .babelrc
+│  .gitignore
+│  package-lock.json
+│  package.json
+│  README.md
+│  webpack.config.js
+│  
+├─dist
+│  ├─css
+│  │      index.css
+│  │      
+│  ├─html
+│  │      index.html
+│  │      
+│  ├─img
+│  │      timg.jpg
+│  │      
+│  └─js
+│          index.js
+│          
+└─src
+    ├─html
+    │      index.html
+    │      
+    ├─images
+    │      ic_rating_s.png
+    │      s6977571.jpg
+    │      start-fm-logo.png
+    │      timg.jpg
+    │      
+    ├─js
+    │      data - 副本.text
+    │      data.text
+    │      fanye.js
+    │      index.js
+    │      jquery.js
+    │      slider.js
+    │      翻页插件.html
+    │      轮播图封装.html
+    │      
+    └─less
+            base.less
+            index.less
+            
