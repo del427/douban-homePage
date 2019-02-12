@@ -56,4 +56,4 @@ js html css jquery webpack
 
 ###实列
 
-![事列](https://github.com/del427/douban-homePage/raw/master/images/sousuo.gif)
+![事列](https://github.com/del427/douban-homePage/raw/master/src/images/sousuo.gif)
